@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lnkoc
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Vue.js/HTML5/Javascript/CSS3/WebGL/php
-- 💞️ I’m looking to collaborate based on these technologies
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate based on front end development
 
 
 <!---
